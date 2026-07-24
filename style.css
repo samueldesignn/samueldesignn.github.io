@@ -104,3 +104,20 @@ footer {
     text-align: center;
     padding: 20px;
 }
+.about {
+    padding: 60px 8%;
+    text-align: center;
+    background: white;
+}
+
+.about h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    max-width: 800px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.6;
+}
