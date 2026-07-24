@@ -105,7 +105,7 @@ footer {
     padding: 20px;
 }
 .about {
-    padding: 60px 8%;
+    padding: 35px 8%;
     text-align: center;
     background: white;
 }
@@ -116,8 +116,8 @@ footer {
 }
 
 .about p {
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
-    font-size: 17px;
-    line-height: 1.8;
+    font-size: 16px;
+    line-height: 1.6;
 }
