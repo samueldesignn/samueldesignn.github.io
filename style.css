@@ -116,8 +116,8 @@ footer {
 }
 
 .about p {
-    max-width: 800px;
+    max-width: 600px;
     margin: auto;
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 17px;
+    line-height: 1.8;
 }
